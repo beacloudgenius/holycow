@@ -1,3 +1,7 @@
+#### Use Cloud Genius Workstation
+
+    [https://be.a.cloudgeni.us/workstation](https://be.a.cloudgeni.us/workstation)
+
 #### Clone
 
     git clone https://github.com/beacloudgenius/holycow.git
@@ -17,7 +21,7 @@
     
 #### Slides available
 
-    https://speakerdeck.com/cloudgenius/2016-10-07-intro-to-docker
+    [https://speakerdeck.com/cloudgenius/2016-10-07-intro-to-docker](https://speakerdeck.com/cloudgenius/2016-10-07-intro-to-docker)
 
 #### Facebook livestream
 
