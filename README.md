@@ -17,7 +17,7 @@
 
 #### ALTERNATIVELY, just run without building yourself
 
-    docker run cloudgenius/holycow
+    docker --rm run cloudgenius/holycow
     
 #### Slides available
 
