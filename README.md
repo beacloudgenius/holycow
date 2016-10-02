@@ -1,6 +1,6 @@
 #### Clone
 
-    git clone https://git
+    git clone https://github.com/beacloudgenius/holycow.git
 
     cd holycow
 
