@@ -2,6 +2,10 @@
 
 [https://be.a.cloudgeni.us/workstation](https://be.a.cloudgeni.us/workstation)
 
+#### Open Terminal in the Cloud Genius Workstation 
+
+and 
+
 #### Clone
 
     git clone https://github.com/beacloudgenius/holycow.git
