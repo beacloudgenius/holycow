@@ -13,11 +13,11 @@
 
 #### Run your build
 
-    docker --rm run holycow
+    docker run --rm holycow
 
 #### ALTERNATIVELY, just run without building yourself
 
-    docker --rm run cloudgenius/holycow
+    docker run --rm cloudgenius/holycow
     
 #### Slides available
 
