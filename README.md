@@ -7,10 +7,14 @@
 
     docker build holycow .
 
-#### Run
+#### Run your build
 
     docker run holycow
 
+#### Run without building yourself
+
+    docker run cloudgenius/holycow
+    
 #### Slides available
 
     https://speakerdeck.com/cloudgenius/2016-10-07-intro-to-docker
