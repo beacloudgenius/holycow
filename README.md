@@ -9,7 +9,7 @@
 
 #### Build yourself
 
-    docker build holycow .
+    docker build -t holycow .
 
 #### Run your build
 
