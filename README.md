@@ -7,7 +7,7 @@
     git clone https://github.com/beacloudgenius/holycow.git
     cd holycow
 
-#### Build
+#### Build yourself
 
     docker build holycow .
 
@@ -15,7 +15,7 @@
 
     docker run holycow
 
-#### Run without building yourself
+#### ALTERNATIVELY, just run without building yourself
 
     docker run cloudgenius/holycow
     
