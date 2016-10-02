@@ -13,7 +13,7 @@
 
 #### Run your build
 
-    docker run holycow
+    docker --rm run holycow
 
 #### ALTERNATIVELY, just run without building yourself
 
